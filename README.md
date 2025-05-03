@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ryanlisse-lancedb-mcp-badge.png)](https://mseep.ai/app/ryanlisse-lancedb-mcp)
+
 # LanceDB MCP Server
 
 ## Overview
